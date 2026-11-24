@@ -38,8 +38,10 @@
    "kt": "Etimología: mar, río, lago. Día para pedir lluvia y el regreso de quien se fue; también para calmar desórdenes mentales y espirituales y problemas en la casa. Quienes nacen en él: buenos trabajadores, intuitivos, creativos.",
    "div": "Día malo y peligroso: las fuerzas ocultas del universo manifiestas en la locura. Las adivinaciones en 7 Ajpu, 8 Imox y 9 Iq' señalan confusión sobre los ídolos de la casa. Los ajq'ijab rezan contra los enemigos.",
    "note": "Imox/Imix es el más transparente de muchos cognados entre k'iche' y yucateco: compárese Iq'/Ik', Kame/Kimi, Kawoq/Kawak, Ajpu'/Ajaw.",
-   "glyph": "Serpiente de agua primordial / tierra cocodriliana; la banda ondulante del agua"
-  }
+   "glyph": "Serpiente de agua primordial / tierra cocodriliana; la banda ondulante del agua",
+   "alaxik": "Agua; imux «cosa oculta», mox «no piensa». Emociones, locura, animales acuáticos, fertilidad."
+  },
+  "alaxik": "Water; imux 'a hidden thing', mox 'does not think'. Emotions, madness, aquatic animals, fertility."
  },
  {
   "seq": 2,
@@ -80,8 +82,10 @@
    "kt": "Etimología: viento, aire, espíritu, corazón del cielo; también aguacero y huracán. Se pide el fin del sufrimiento, la enfermedad o los problemas de la casa. Quienes nacen en él: emotivos, sociables, considerados.",
    "div": "Día malo: las fuerzas destructivas del universo, encarnadas en los ídolos de piedra, que deben honrarse con incienso, aguardiente, rosas, pino y velas. Se le atribuyen hinchazones dolorosas y cáncer.",
    "note": "También es cargador del año blanco: el color del nawal Iq' es el blanco (Ministerio de Cultura).",
-   "glyph": "Viento, aliento, fuerza vital"
-  }
+   "glyph": "Viento, aliento, fuerza vital",
+   "alaxik": "Viento, espíritu, aliento; jiq' son las pequeñas figuras de piedra. Hoy se liga al colibrí y al enojo (iq'ilal)."
+  },
+  "alaxik": "Wind, spirit, breath; jiq' are the small stone figures. Today linked to the hummingbird and to anger (iq'ilal)."
  },
  {
   "seq": 3,
@@ -122,8 +126,10 @@
    "kt": "Etimología: oscuridad; significa amanecer y mano, la luz del alba y lo oscuro. Día para pedir que la claridad llegue a todas las cosas; el día de los sentimientos del corazón. Quienes nacen en él: cazadores valientes, humildes, serios, precisos.",
    "div": "Día malo, el día de los calumniadores. 8 Aq'ab'al es momento de pedir protección contra la calumnia; 12 y 13 son días fuertes para obrar mal contra otros y para pedir castigo para los enemigos.",
    "note": "Chuj y q'anjob'al conservan una raíz distinta (Woton/Watan), no cognada de Aq'ab'al.",
-   "glyph": "Oscuridad, noche, amanecer temprano"
-  }
+   "glyph": "Oscuridad, noche, amanecer temprano",
+   "alaxik": "aq'ab es «noche, madrugada»: claridad, la dualidad de sombra y luz, y la casa como manto que protege a la familia."
+  },
+  "alaxik": "aq'ab is 'night, dawn': clarity, the duality of dark and light, and the house as a mantle that protects the family."
  },
  {
   "seq": 4,
@@ -164,8 +170,10 @@
    "kt": "Etimología: red, enredo, desenredo. Símbolo del fuego, de la quema, de la red de pesca y de la red que guarda las mazorcas. Día para pedir que nazca un niño. Quienes nacen en él promueven leyes teóricas y prácticas, son buenos, débiles y tienden al fuego.",
    "div": "Día malo, símbolo del mal en general. 7 Aq'ab'al y 8 K'at son días para pedir protección contra la envidia ajena.",
    "note": "TRAMPA DE POSICIÓN: el k'iche' K'at ocupa el puesto 4 donde el yucateco tiene Kan (serpiente). El Ministerio de Cultura lo llama «juego K'at/Kan».",
-   "glyph": "Maíz maduro, amarillo, abundancia (k'an yucateco); la red y el fuego son el K'at k'iche'"
-  }
+   "glyph": "Maíz maduro, amarillo, abundancia (k'an yucateco); la red y el fuego son el K'at k'iche'",
+   "alaxik": "Raíz de «encender» y «ofrendar»; la red del maíz, la telaraña, las cárceles reales y metafóricas, y el fuego sagrado."
+  },
+  "alaxik": "Root of 'to light' and 'to offer'; the maize net, the spider's web, prisons real and metaphorical, and the sacred fire."
  },
  {
   "seq": 5,
@@ -206,8 +214,10 @@
    "kt": "Etimología: serpiente emplumada. Es el Formador y Modelador del universo; significa justicia, verdad y paz. Se pide fuerza, salud y trabajo; día para soltar el enojo. Quienes nacen en él: fuertes, hábiles, sabios, sinceros.",
    "div": "Día malo que trae enfermedad; símbolo de la crueldad arbitraria del universo.",
    "note": "El par con Chicchan yucateco confirma el desfase: lo que se mueve es el par K'at/Kan, no un solo signo.",
-   "glyph": "Serpiente cosmológica"
-  }
+   "glyph": "Serpiente cosmológica",
+   "alaxik": "Serpientes —cascabel y nauyaca—, las de mayor carga simbólica; justicia, tiempo, cambio; k'aan «enojado»."
+  },
+  "alaxik": "Serpents — rattlesnake and nauyaca — as the most symbolically loaded snakes in Maya lands; justice, time, change; k'aan 'angry'."
  },
  {
   "seq": 6,
@@ -248,8 +258,10 @@
    "kt": "Etimología: muerte; abarca lo bueno y lo malo. Nawal del sol; significa muerte y la lechuza que la anuncia. Se pide librarse de malas decisiones y accidentes. Quienes nacen en él: fuertes, y sufren mucho.",
    "div": "Símbolo de la disolución final de todo, lo bueno y lo malo, en la muerte; el día por excelencia para el perdón. Bunzel anota que para algunos es buen día, porque anuncia el perdón de las culpas y el fin de la enfermedad.",
    "note": "Tox, en chuj y q'anjob'al, es una raíz distinta para el mismo puesto.",
-   "glyph": "Muerte"
-  }
+   "glyph": "Muerte",
+   "alaxik": "La muerte y los señores del Xibalbá, Jun Keme y Wuqub Keme."
+  },
+  "alaxik": "Death, and the lords of Xibalbá, Jun Keme and Wuqub Keme."
  },
  {
   "seq": 7,
@@ -290,8 +302,10 @@
    "kt": "Etimología: venado. Uno de los cuatro sostenes del cielo y la tierra; la fuerza que carga los destinos humanos; las cuatro esquinas, en k'iche' Tojil, Avilix, Aja Bitz y Majukutaj. Quienes nacen en él defienden a otros, son irritables y resisten la enfermedad.",
    "div": "Buen día, el mejor para pedir favores; símbolo de la transfiguración y el cumplimiento en la muerte manifestados en los antepasados. 8 Kej es el día de conmemoración de los antepasados.",
    "note": "También es cargador del año, negro en las páginas de año nuevo del Códice de Dresde.",
-   "glyph": "Venado"
-  }
+   "glyph": "Venado",
+   "alaxik": "Las cuatro esquinas del cosmos y los cuatro colores del maíz; guardián de la montaña, el bosque y la selva."
+  },
+  "alaxik": "The four corners of the cosmos and the four colours of maize; guardian of mountain, forest and jungle."
  },
  {
   "seq": 8,
@@ -332,8 +346,10 @@
    "kt": "Etimología: semilla y amarillo; el color del oro y de la caña, el tercer color del sol; símbolo de las cuatro estaciones y de humanos, animales y plantas. Quienes nacen en él hablan de lo que no tienen y de lo que no son; sufren mucho y necesitan apoyo moral.",
    "div": "Buen día, consagrado a los espíritus de la agricultura; en él se suplica por todo lo que sostiene la vida. Símbolo de la regeneración de la tierra y del renacer tras la muerte, visible en el crecimiento del maíz: es el día de la milpa, y tras la cosecha se espera Q'anil para agradecer.",
    "note": "DIVERGENCIA MÁS CLARA: la glosa mexica y yucateca es conejo (Tochtli/Lamat); el k'iche' es semilla y maíz (Q'anil); el glifo clásico se lee Venus. Tres lecturas de un puesto.",
-   "glyph": "Venus, estrella, madurez, semilla de maíz"
-  }
+   "glyph": "Venus, estrella, madurez, semilla de maíz",
+   "alaxik": "q'an «amarillo, maduro»: la energía que madura los frutos y, en su otra acepción, la falta de energía y salud."
+  },
+  "alaxik": "q'an 'yellow, ripe': the energy that ripens fruit — and, in its other sense, a lack of energy and health."
  },
  {
   "seq": 9,
@@ -374,8 +390,10 @@
    "kt": "Etimología: ofrenda, multa, pago; también ayudar, socializar, escuchar, entender. Se pide fuerza para no equivocarse y el fin del sufrimiento; es el nawal del fuego. Se pide que lo oscuro salga a la luz. Quienes nacen en él: conciliadores, autodidactas.",
    "div": "Día malo, día de enfermedad, símbolo del sufrimiento causado por el pecado; también el día para llamar enfermedad contra un enemigo.",
    "note": "El k'iche' lee deuda y ofrenda; el yucateco Muluk es jade y agua; el mexica Atl es agua. Mismo puesto, otro eje.",
-   "glyph": "Jade, agua, ofrenda"
-  }
+   "glyph": "Jade, agua, ofrenda",
+   "alaxik": "tooj «reconocer, trascender los dones recibidos»: gratitud, resina de pino ofrecida como moneda, el fuego sagrado."
+  },
+  "alaxik": "tooj 'to recognise, to transcend gifts received': gratitude, pine resin offered as coin, the sacred fire."
  },
  {
   "seq": 10,
@@ -416,8 +434,10 @@
    "kt": "Etimología: perro; representa los cinco sentidos del ser humano. Se pide alejar la pobreza, la desgracia y los malos hábitos; es el nawal de la justicia material y espiritual. Quienes nacen en él: inteligentes y celosos.",
    "div": "Día malo, símbolo del pecado, sobre todo de la impureza sexual. No se hacen ceremonias en este día porque es malo.",
    "note": "—",
-   "glyph": "Perro"
-  }
+   "glyph": "Perro",
+   "alaxik": "tz'ij, la búsqueda de la verdad; deseo intenso; coyote, perro; peticiones en asuntos jurídicos y procesales."
+  },
+  "alaxik": "tz'ij, the search for truth; intense desire; coyote, dog; petitions over legal and judicial matters."
  },
  {
   "seq": 11,
@@ -458,8 +478,10 @@
    "kt": "Etimología: hilo. Simboliza el destino de las personas y la continuidad con el pasado; el hilo del tiempo y del desarrollo humano y de la naturaleza. En este día caen las ceremonias de año nuevo y se inician nuevos ajq'ijab. Quienes nacen en él: prósperos en negocios y matrimonio, respetables, sociables, defensores, maestros.",
    "div": "Día malo en el calendario de 1854, en el que se reza para que la enfermedad —sobre todo la parálisis— caiga sobre los enemigos; pero buen día como símbolo de la continuidad con el pasado y los antepasados.",
    "note": "Komon Tohil empieza su tabla aquí, no en Imox: es la entrada ceremonial de la cuenta.",
-   "glyph": "Mono aullador"
-  }
+   "glyph": "Mono aullador",
+   "alaxik": "El mono saraguato y la danza b'aatz; el hilo del tiempo que se enrolla y desenrolla; guardián de artistas y tejedoras."
+  },
+  "alaxik": "The saraguato monkey and the b'aatz dance; the thread of time that winds and unwinds; guardian of artists and weavers."
  },
  {
   "seq": 12,
@@ -500,8 +522,10 @@
    "kt": "Etimología: camino. En este día un hombre puede pedir la mano de una mujer; es día para pedir el bienestar físico y moral de alguien, cuando los antepasados están dispuestos a escuchar. Quienes nacen en él: sociables, buenos viajeros, generosos.",
    "div": "Buen día: en él se pactan matrimonios, precedidos de sacrificios a las potencias benignas. Símbolo del destino encarnado en el día del nacimiento, en la personalidad y la fortuna.",
    "note": "También es cargador del año; amarillo en las páginas de año nuevo del Códice de Dresde.",
-   "glyph": "Lluvia; también «diente» en yucateco"
-  }
+   "glyph": "Lluvia; también «diente» en yucateco",
+   "alaxik": "b'e, «camino»: rumbos cósmicos, liderazgo, viajes y las normas que los orientan."
+  },
+  "alaxik": "b'e, 'road': cosmic paths, leadership, journeys, and the norms that orient them."
  },
  {
   "seq": 13,
@@ -542,8 +566,10 @@
    "kt": "Etimología: cañaveral y milpa; Aj significa maíz y es una vara de virtudes divinas. Día muy significativo, día de triunfo. Quienes nacen en él son muy afortunados, tranquilos, inteligentes, a veces de mal humor.",
    "div": "Buen día, consagrado a los dioses de la agricultura y de los rebaños y animales domésticos; símbolo del destino encarnado en el nawal: el día del propio destino.",
    "note": "El puesto 13 es caña en ambas ramas: b'en yucateco, aj del altiplano, acatl mexica. El aj k'iche' también significa elote tierno (homófono distinto): de ahí viene la lectura moderna del maíz.",
-   "glyph": "Maíz tierno, semilla (caña)"
-  }
+   "glyph": "Maíz tierno, semilla (caña)",
+   "alaxik": "La caña del maíz y jaa, «casa»; linaje, autoridad, firmeza y los niños como brotes nuevos."
+  },
+  "alaxik": "The maize cane and jaa, 'house'; lineage, authority, firmness, and children as new shoots."
  },
  {
   "seq": 14,
@@ -584,8 +610,10 @@
    "kt": "Etimología: tigre (jaguar). Significa vitalidad, el altar maya y la sabiduría; es el nombre sagrado de la divinidad en la tierra y el nawal de los animales domésticos. Quienes nacen en él: fuertes y vigorosos.",
    "div": "Buen día, consagrado a los espíritus de las montañas y bosques; se pide protección para los rebaños frente a los espíritus que gobiernan a los lobos y otras fieras. Símbolo de las fuerzas creadoras encarnadas en la tierra; 8 I'x y 9 Tz'ikin son días para agradecer el techo y la tierra propia.",
    "note": "El calendario k'iche' de 1722 glosa este día como «Yx / Balam»: dos palabras para jaguar, en la misma columna. El texto kaqchikel de 1685 sólo tiene Yix.",
-   "glyph": "Jaguar"
-  }
+   "glyph": "Jaguar",
+   "alaxik": "El principio femenino y la Madre Tierra; el jaguar, cuyo territorio abarca grandes extensiones."
+  },
+  "alaxik": "The feminine principle and Mother Earth; the jaguar, whose range covers great distances."
  },
  {
   "seq": 15,
@@ -626,8 +654,10 @@
    "kt": "Etimología: ave. Simboliza al Creador del universo, representado por todo lo que hay en el espacio; también es el día del dinero, de los negocios y de los comerciantes. Quienes nacen en él son buenos, amables y románticos.",
    "div": "«El más excelente de los días»: se hacen ofrendas dobles, en la iglesia y en cuevas, barrancas y bosques profundos; se pide perdón a las dos grandes potencias, el Bien y el Mal. Día para cerrar contratos de matrimonio e iniciar asuntos importantes. Símbolo de buena suerte material, incluido el dinero.",
    "note": "El k'iche' Tz'ikin es ave; el yucateco Men es águila; el mexica Cuauhtli es águila. Cercanos, no idénticos.",
-   "glyph": "Águila"
-  }
+   "glyph": "Águila",
+   "alaxik": "Bienestar y abundancia, conexión con el ahaw; aves —águila, quetzal—; sueños, la palabra, la visión, lo material."
+  },
+  "alaxik": "Wellbeing and abundance, connection to the ahaw; birds — eagle, quetzal; dreams, the word, vision, material means."
  },
  {
   "seq": 16,
@@ -668,8 +698,10 @@
    "kt": "Etimología: voluntad. Día muy especial en el que la gente y los ajq'ijab se ocupan de prevenir errores; día para agradecer el bienestar físico y material. Quienes nacen en él pueden ser temperamentales y valientes.",
    "div": "«También el más excelente de los días», consagrado a los espíritus que rigen la buena salud. Día sin carácter definido, pero símbolo de las fuerzas morales encarnadas en el ritual penitencial; 7 Tz'ikin, 8 Ajmaq y 9 No'j son días para pedir protección, porque de ellos puede venir mal por las culpas o los malos pensamientos.",
    "note": "El k'iche' lee el puesto como voluntad y error; el yucateco Kib' es cera; el mexica es un zopilote. Tres glosas sin relación.",
-   "glyph": "Cera"
-  }
+   "glyph": "Cera",
+   "alaxik": "aj- «quien tiene un oficio» + maq «oscuridad», también mak «falta, vergüenza»: saber velado, faltas, consejo de los antepasados."
+  },
+  "alaxik": "aj- 'one who has an office' + maq 'darkness', also mak 'fault, shame': hidden knowledge, faults, the ancestors' counsel."
  },
  {
   "seq": 17,
@@ -710,8 +742,10 @@
    "kt": "Etimología: sabiduría, criterio, razón, pensamiento. Día para acordar con el Creador, unir ideas, aconsejar y cultivar la ciencia; para pedir el cambio del carácter negativo y buenas ideas en la política y la organización social. Quienes nacen en él: buenos, prudentes, temperamentales; comerciantes o médicos.",
    "div": "Día propicio, dedicado al genio que preside el alma; se pide que el suplicante y su familia tengan buen juicio. Símbolo de las fuerzas morales ambivalentes de la mente humana; 8 No'j es cuando se piden buenos pensamientos.",
    "note": "La inversión más brusca: el yucateco Kab'an es TIERRA; el k'iche' No'j es PENSAMIENTO; el mexica Ollin es movimiento. También es cargador del año, rojo.",
-   "glyph": "Tierra"
-  }
+   "glyph": "Tierra",
+   "alaxik": "na', «sentir-conocer, percibir, intuir» —probable raíz de la palabra nawal—; sabiduría que viene de los sentidos y equilibra sentir y pensar."
+  },
+  "alaxik": "na', 'to feel-know, perceive, intuit' — probably the root of the word nawal; wisdom drawn from the senses, balancing feeling and thought."
  },
  {
   "seq": 18,
@@ -752,8 +786,10 @@
    "kt": "Etimología: destino, cuchillo de obsidiana y tentación espontánea. Se pide protección contra el daño social, comunitario o personal. Quienes nacen en él: buenos y valientes, curanderos; también irritables, y sufren chismes, pleitos y accidentes, evitables con ofrendas.",
    "div": "Buen día. Es el día de las disputas y las malas palabras; 8 Tijax es buen día para confesar culpas, sobre todo pleitos con la esposa, parientes o padres.",
    "note": "—",
-   "glyph": "Pedernal"
-  }
+   "glyph": "Pedernal",
+   "alaxik": "Obsidiana y k'ax «dolor físico o psíquico»: curación y medicina, pero también sufrimiento; el cuchillo de doble filo."
+  },
+  "alaxik": "Obsidian, and k'ax 'physical or psychic pain': healing and medicine, but also suffering; the double-edged blade."
  },
  {
   "seq": 19,
@@ -794,8 +830,10 @@
    "kt": "Etimología: trueno, hormigas y mujer. Día para pedir el éxito de los proyectos, sanar enfermedades mentales y prosperidad en la tierra. Quienes nacen en él son buenos adivinos del futuro, y jueces.",
    "div": "Día indiferente en el calendario de 1854; día malo como símbolo del mal encarnado en la malicia de los muertos.",
    "note": "El ancla etimológica de toda la cuestión del «elemento»: el protomaya *kahoq, «rayo/trueno», sobrevive en más de 21 lenguas mayas. El yucateco conserva kawak para el día y usa chaak para el dios de la lluvia.",
-   "glyph": "Tormenta de lluvia; el «monstruo Cauac», T528"
-  }
+   "glyph": "Tormenta de lluvia; el «monstruo Cauac», T528",
+   "alaxik": "k- + -a- + -woq, «hacer ruido al hablar», traducido trueno; k'aqob'al nombra enfermedades causadas por un acto incorrecto de los antepasados; lo colectivo, la palabra fuerte, las tortugas."
+  },
+  "alaxik": "k- + -a- + -woq, 'to make a noise when speaking', translated trueno; k'aqob'al names illnesses caused by an ancestor's wrong act; the collective, the strong word, turtles."
  },
  {
   "seq": 20,
@@ -836,7 +874,9 @@
    "kt": "Etimología: vida, destino, plantas, animales; es el Señor Sol. Significa cazador, tirador y caminante. En este día se pide el cumplimiento de las ideas propuestas por la comunidad. Quienes nacen en él: buenos, talentosos, afectuosos, pero coléricos y enjuiciadores.",
    "div": "Día indiferente; símbolo del poder punitivo de los antepasados, encarnado en su dominio de la casa y el hogar.",
    "note": "El texto kaqchikel de 1685 escribe Hunahpu; el k'iche' de 1722 y 1854 escribe Ahpu/Ajpu'. Mismo puesto que el mexica Xochitl (flor) y el yucateco Ajaw (señor).",
-   "glyph": "Señor, gobernante, sol"
-  }
+   "glyph": "Señor, gobernante, sol",
+   "alaxik": "Jun Ajpu del Popol Wuj, cazador de cerbatana: precisión y tino, claridad, vida y fuerza."
+  },
+  "alaxik": "Jun Ajpu of the Popol Wuj, blowgun hunter: precision and aim, clarity, life and force."
  }
 ]
