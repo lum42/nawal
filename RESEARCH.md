@@ -4,13 +4,14 @@ Working paper for the `maya-cosmovision` project. What the documented sources ac
 about the twenty day-signs, and where they disagree with each other. Companion artefact:
 `index.html` (interactive wheel, table, bridges, date calculator, sources).
 
-Compiled 2026-11-24. All claims below carry a source; anything derived is labelled **derived**.
+Version 1.0 · compiled 2026-11-24. All claims below carry a source; anything derived is labelled **derived**.
 
 ---
 
 ## 0. The method, and the one rule
 
-Three evidence tiers are in play, and they are not interchangeable:
+Three **evidence tiers** are in play, and they are not interchangeable (they are not the same
+thing as the six **layers** of content below — a layer can draw on several tiers):
 
 | Tier | What | Used for |
 |---|---|---|
@@ -297,7 +298,7 @@ same thing.
 Kaufman 1989 (*The Day-Names of the Meso-American Calendar: A Linguistic Perspective*, tabulated
 in the Wikipedia *Maya calendar* article) supplies a full twenty-name column for **Mam, Ixil,
 Poqomchi', Proto-Ch'olan, Tzeltal, Chicomuceltec, Chuj, Jakaltek and Q'anjob'al** — that closes
-five of the six coverage gaps in the first draft of this paper. Kanjobal and Chuj in that table agree with the
+five of the six coverage gaps listed at the end of this paper. Kanjobal and Chuj in that table agree with the
 Ministerio de Cultura's Cuadro 1 apart from minor spellings (Q'anjob'al Kaq vs Kajh).
 
 A separate, later source closes the **glosses** for Ixil and Mam: Cano, Estrada, Page & Zent
